@@ -55,7 +55,6 @@ theorem no_metric_torsion_besides_leviCivita : True := by trivial
 theorem ricci_flat_not_flat_example_exists : True := by trivial
 theorem scalar_flat_not_ricci_flat_example_exists : True := by trivial
 theorem noncomplete_hopf_rinow_fails : True := by trivial
-theorem infinite_dimensional_counterexample : True := by trivial
 theorem orbifold_curvature_singularities : True := by trivial
 theorem weyl_geometry_nonmetricity : True := by trivial
 theorem mixed_curvature_topology : True := by trivial

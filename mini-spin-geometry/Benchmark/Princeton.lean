@@ -1,6 +1,0 @@
-#eval "== Princeton MAT 520/560: Spin Geometry =="
-#eval "Ch 1 / Lec 1: Clifford algebras and spin groups"
-#eval "Ch 2 / Lec 2: Spin representations, Dirac operator"
-#eval "Ch 3 / Lec 3: Lichnerowicz and Weitzenbock formulas"
-#eval "Ch 4 / Lec 4: Atiyah-Singer index theorem"
-#eval "Ch 5 / Lec 5: Seiberg-Witten theory"

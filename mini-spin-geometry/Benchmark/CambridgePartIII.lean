@@ -1,6 +1,0 @@
-#eval "== Cambridge Part III: Spin Geometry =="
-#eval "Ch 1: Clifford algebras, spin groups, Spin^c"
-#eval "Ch 2: Spin structures on manifolds, obstruction w_2"
-#eval "Ch 3: Dirac operators on spin manifolds"
-#eval "Ch 4: Index theory and the A-hat genus"
-#eval "Ch 5: Applications to geometry and topology"

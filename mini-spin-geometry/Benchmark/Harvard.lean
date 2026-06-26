@@ -1,6 +1,0 @@
-#eval "== Harvard Math 231: Spin Geometry =="
-#eval "Ch 1: Clifford algebras and representations"
-#eval "Ch 2: Spin and Spin^c structures"
-#eval "Ch 3: Dirac operators and Lichnerowicz formula"
-#eval "Ch 4: Atiyah-Singer index theorem for spin manifolds"
-#eval "Ch 5: Seiberg-Witten invariants of 4-manifolds"
