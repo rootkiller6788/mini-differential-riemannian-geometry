@@ -1,0 +1,6 @@
+#eval "== MIT 18.xxx: Spin Geometry and Index Theory =="
+#eval "Ch 1: Clifford algebras, spin groups, representations"
+#eval "Ch 2: Spin structures, obstruction theory, w_2"
+#eval "Ch 3: Dirac operators, Lichnerowicz, Weitzenbock"
+#eval "Ch 4: Atiyah-Singer index theorem"
+#eval "Ch 5: Applications: PSC, Seiberg-Witten, cobordism"

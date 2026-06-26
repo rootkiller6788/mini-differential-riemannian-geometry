@@ -1,0 +1,3 @@
+import MiniConnectionsCurvature.Properties.ClassificationData
+import MiniConnectionsCurvature.Properties.Invariants
+import MiniConnectionsCurvature.Properties.Preservation

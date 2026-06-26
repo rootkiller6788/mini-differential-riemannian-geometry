@@ -1,0 +1,3 @@
+import MiniRiemannianMetrics.Morphisms.Hom
+import MiniRiemannianMetrics.Morphisms.Equiv
+import MiniRiemannianMetrics.Morphisms.Iso

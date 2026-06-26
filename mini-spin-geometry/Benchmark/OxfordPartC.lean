@@ -1,0 +1,6 @@
+#eval "== Oxford Part C: Spin Geometry =="
+#eval "Ch 1: Clifford algebras and the spin group"
+#eval "Ch 2: Spin structures and spinor bundles"
+#eval "Ch 3: The Dirac operator on Riemannian manifolds"
+#eval "Ch 4: Lichnerowicz formula and applications"
+#eval "Ch 5: Index theorem and Seiberg-Witten equations"
